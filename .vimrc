@@ -15,6 +15,7 @@ Bundle 'garbas/vim-snipmate'
 Bundle 'honza/vim-snippets'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'elixir-lang/vim-elixir'
 call vundle#end()
 syntax on
 filetype plugin indent on
